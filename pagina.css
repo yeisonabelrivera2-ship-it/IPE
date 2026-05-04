@@ -429,3 +429,13 @@ body {
     border-radius: 999px;
     background: linear-gradient(90deg, #0071e3, #00c6ff);
 }
+
+
+
+.subbloque img {
+    display: block;
+    margin: 12px auto;
+    width: 60%;
+    border-radius: 14px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
